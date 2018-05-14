@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleClasses.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleClasses_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleClasses_main.iml" group="SimpleClasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleClasses_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleClasses_test.iml" group="SimpleClasses" />
     </modules>
   </component>
 </project>
